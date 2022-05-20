@@ -1,0 +1,3657 @@
+[
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49339.609375,
+            "y": 288901.625,
+            "z": -2428.036865
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -50325.492188,
+            "y": 290119.28125,
+            "z": -2421.106689
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -37384.222656,
+            "y": 296264.75,
+            "z": -2194.515625
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -38407.003906,
+            "y": 296387.71875,
+            "z": -2230.459717
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47934.355469,
+            "y": 288913.78125,
+            "z": -2426.479248
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48869.765625,
+            "y": 288730.625,
+            "z": -2428.036865
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49946.753906,
+            "y": 287233.5,
+            "z": -2445.762939
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -51058.679688,
+            "y": 289745.0,
+            "z": -2410.329346
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -40811.535156,
+            "y": 296931.6875,
+            "z": -2082.872559
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -41595.496094,
+            "y": 296609.875,
+            "z": -1977.806885
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -38876.847656,
+            "y": 296558.71875,
+            "z": -2230.459717
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -40788.273438,
+            "y": 297028.9375,
+            "z": -2082.872559
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -51058.679688,
+            "y": 289745.0,
+            "z": -2410.329346
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -51346.507812,
+            "y": 292120.40625,
+            "z": -2403.806396
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49701.902344,
+            "y": 285170.84375,
+            "z": -2514.763916
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49476.910156,
+            "y": 287062.5,
+            "z": -2445.762939
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -41575.023438,
+            "y": 289309.78125,
+            "z": -2362.776367
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -41764.265625,
+            "y": 289829.71875,
+            "z": -2441.610352
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -50325.492188,
+            "y": 290119.28125,
+            "z": -2421.106689
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -50331.351562,
+            "y": 291052.375,
+            "z": -2394.740967
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -50331.351562,
+            "y": 291052.375,
+            "z": -2394.740967
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -50281.515625,
+            "y": 291724.8125,
+            "z": -2380.479004
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -50231.355469,
+            "y": 291051.65625,
+            "z": -2394.740967
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49529.761719,
+            "y": 291451.1875,
+            "z": -2358.771729
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49541.222656,
+            "y": 292626.53125,
+            "z": -2392.832031
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49464.054688,
+            "y": 292838.5625,
+            "z": -2404.646729
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -40788.273438,
+            "y": 297028.9375,
+            "z": -2082.872559
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -41354.089844,
+            "y": 297302.8125,
+            "z": -2056.16626
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -41595.496094,
+            "y": 296609.875,
+            "z": -1977.806885
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42046.910156,
+            "y": 296902.8125,
+            "z": -2030.025391
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49324.550781,
+            "y": 292015.0,
+            "z": -2358.771729
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49481.457031,
+            "y": 292498.375,
+            "z": -2392.832031
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -41654.089844,
+            "y": 297822.4375,
+            "z": -2056.16626
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -41893.484375,
+            "y": 298237.0625,
+            "z": -2065.009766
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -41893.484375,
+            "y": 298237.0625,
+            "z": -2065.009766
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42553.414062,
+            "y": 299380.09375,
+            "z": -2099.398438
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -42346.910156,
+            "y": 297422.4375,
+            "z": -2030.025391
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -41980.085938,
+            "y": 298187.0625,
+            "z": -2065.009766
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -50076.304688,
+            "y": 292288.625,
+            "z": -2380.479004
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49669.394531,
+            "y": 292566.75,
+            "z": -2392.832031
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49523.820312,
+            "y": 292966.71875,
+            "z": -2404.646729
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49506.421875,
+            "y": 293854.375,
+            "z": -2429.09082
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -51141.296875,
+            "y": 292684.21875,
+            "z": -2403.806396
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -51016.375,
+            "y": 293027.4375,
+            "z": -2409.4021
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49395.648438,
+            "y": 293026.5,
+            "z": -2404.646729
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48752.4375,
+            "y": 293579.9375,
+            "z": -2421.043701
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49335.882812,
+            "y": 292898.34375,
+            "z": -2404.646729
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48000.683594,
+            "y": 293306.3125,
+            "z": -2405.641357
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -52179.179688,
+            "y": 294578.1875,
+            "z": -2434.469971
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -52980.601562,
+            "y": 294582.96875,
+            "z": -2496.624512
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -48547.226562,
+            "y": 294143.75,
+            "z": -2421.043701
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48445.703125,
+            "y": 294422.6875,
+            "z": -2453.131836
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -52511.742188,
+            "y": 294562.71875,
+            "z": -2552.918701
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -53471.367188,
+            "y": 293559.59375,
+            "z": -2492.157715
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49815.507812,
+            "y": 301246.90625,
+            "z": -2454.812256
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49698.257812,
+            "y": 300924.75,
+            "z": -2435.334229
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47132.453125,
+            "y": 295889.84375,
+            "z": -2437.971191
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -46696.796875,
+            "y": 295237.84375,
+            "z": -2438.980713
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -50132.910156,
+            "y": 302118.96875,
+            "z": -2423.424072
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49986.515625,
+            "y": 301716.75,
+            "z": -2454.812256
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -51016.375,
+            "y": 293027.4375,
+            "z": -2409.4021
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -50526.449219,
+            "y": 294044.5,
+            "z": -2433.939941
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49629.851562,
+            "y": 300736.8125,
+            "z": -2435.334229
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49456.898438,
+            "y": 300261.625,
+            "z": -2340.592529
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49570.085938,
+            "y": 300864.96875,
+            "z": -2435.334229
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48705.144531,
+            "y": 300535.25,
+            "z": -2340.592529
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -48499.933594,
+            "y": 299971.4375,
+            "z": -2340.592529
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48277.949219,
+            "y": 299460.75,
+            "z": -2385.158203
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47773.574219,
+            "y": 298178.875,
+            "z": -2432.315674
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -47678.414062,
+            "y": 297917.40625,
+            "z": -2442.716064
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -46233.101562,
+            "y": 301173.46875,
+            "z": -2444.318359
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -46580.878906,
+            "y": 300881.65625,
+            "z": -2455.512451
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -50616.503906,
+            "y": 294087.96875,
+            "z": -2433.939941
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -51130.621094,
+            "y": 294190.21875,
+            "z": -2434.469971
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -10554.520508,
+            "y": 292731.125,
+            "z": -2363.325928
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -11081.753906,
+            "y": 292994.25,
+            "z": -2355.492188
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -45534.882812,
+            "y": 301759.34375,
+            "z": -2408.435547
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -45850.082031,
+            "y": 301494.875,
+            "z": -2444.318359
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -48277.949219,
+            "y": 299460.75,
+            "z": -2385.158203
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48047.191406,
+            "y": 298930.625,
+            "z": -2432.315674
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -52980.601562,
+            "y": 294582.96875,
+            "z": -2496.624512
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -53431.652344,
+            "y": 294595.96875,
+            "z": -2521.665039
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -52978.261719,
+            "y": 294483.0,
+            "z": -2496.624512
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -53401.910156,
+            "y": 293953.53125,
+            "z": -2492.157715
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49856.476562,
+            "y": 297248.65625,
+            "z": -2436.10791
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -52708.675781,
+            "y": 295286.5625,
+            "z": -2511.920898
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -52708.675781,
+            "y": 295286.5625,
+            "z": -2511.920898
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -53362.195312,
+            "y": 294989.90625,
+            "z": -2521.665039
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -52651.789062,
+            "y": 295204.3125,
+            "z": -2511.920898
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -52511.742188,
+            "y": 294562.71875,
+            "z": -2552.918701
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47795.472656,
+            "y": 293870.125,
+            "z": -2405.641357
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48317.53125,
+            "y": 294482.46875,
+            "z": -2453.131836
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -54519.925781,
+            "y": 293947.5625,
+            "z": -2492.157715
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -55125.683594,
+            "y": 294024.53125,
+            "z": -2431.68042
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -55125.683594,
+            "y": 294024.53125,
+            "z": -2431.68042
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -55914.269531,
+            "y": 294122.875,
+            "z": -2343.436279
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -54480.210938,
+            "y": 294983.9375,
+            "z": -2521.665039
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -55114.078125,
+            "y": 294123.84375,
+            "z": -2431.68042
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49301.210938,
+            "y": 294418.1875,
+            "z": -2429.09082
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -51061.164062,
+            "y": 294584.15625,
+            "z": -2434.469971
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47040.503906,
+            "y": 300495.96875,
+            "z": -2455.512451
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48186.828125,
+            "y": 299501.9375,
+            "z": -2385.158203
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -36788.921875,
+            "y": 293816.8125,
+            "z": -2295.420166
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -40792.070312,
+            "y": 294219.75,
+            "z": -2409.154541
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -46443.359375,
+            "y": 296798.875,
+            "z": -2420.477295
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -46211.167969,
+            "y": 296396.6875,
+            "z": -2437.229492
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -46111.167969,
+            "y": 296223.5,
+            "z": -2437.229492
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -45830.773438,
+            "y": 295737.84375,
+            "z": -2438.980713
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47610.007812,
+            "y": 297729.46875,
+            "z": -2442.716064
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -46743.359375,
+            "y": 297318.5,
+            "z": -2420.477295
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47550.242188,
+            "y": 297857.625,
+            "z": -2442.716064
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -46642.703125,
+            "y": 298189.1875,
+            "z": -2419.875977
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47738.179688,
+            "y": 297789.25,
+            "z": -2442.716064
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -47436.179688,
+            "y": 296918.5,
+            "z": -2429.392578
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -49251.6875,
+            "y": 299697.8125,
+            "z": -2340.592529
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -49003.851562,
+            "y": 297971.875,
+            "z": -2436.10791
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -10438.674805,
+            "y": 292812.21875,
+            "z": -2363.325928
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -10876.541992,
+            "y": 293558.0625,
+            "z": -2355.492188
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -11346.388672,
+            "y": 293729.0625,
+            "z": -2355.492188
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -12312.689453,
+            "y": 294080.78125,
+            "z": -2301.939941
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -11141.176758,
+            "y": 294292.875,
+            "z": -2366.015137
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -12039.072266,
+            "y": 294832.53125,
+            "z": -2301.939941
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -9748.391602,
+            "y": 293785.9375,
+            "z": -2392.555908
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -10201.568359,
+            "y": 293950.875,
+            "z": -2379.855713
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -10201.568359,
+            "y": 293950.875,
+            "z": -2379.855713
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -10671.330078,
+            "y": 294121.875,
+            "z": -2366.015137
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -10167.364258,
+            "y": 294044.84375,
+            "z": -2379.855713
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -10466.118164,
+            "y": 294685.6875,
+            "z": -2346.793945
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -10507.161133,
+            "y": 291786.65625,
+            "z": -2290.337158
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -10473.405273,
+            "y": 292615.28125,
+            "z": -2363.325928
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -11551.600586,
+            "y": 293165.25,
+            "z": -2355.492188
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -12586.304688,
+            "y": 293329.03125,
+            "z": -2301.939941
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -10935.964844,
+            "y": 294856.6875,
+            "z": -2346.793945
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -11800.394531,
+            "y": 295617.6875,
+            "z": -2350.444092
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -12602.888672,
+            "y": 295037.71875,
+            "z": -2301.939941
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -12926.727539,
+            "y": 295593.59375,
+            "z": -2403.220947
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -12320.009766,
+            "y": 295917.6875,
+            "z": -2350.444092
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -12891.99707,
+            "y": 295790.53125,
+            "z": -2403.220947
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -12876.503906,
+            "y": 294285.96875,
+            "z": -2301.939941
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -13846.100586,
+            "y": 294273.6875,
+            "z": -2504.404785
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -13150.121094,
+            "y": 293534.21875,
+            "z": -2301.939941
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -13880.831055,
+            "y": 294076.75,
+            "z": -2504.404785
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -13961.946289,
+            "y": 294192.59375,
+            "z": -2504.404785
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -18921.300781,
+            "y": 295958.875,
+            "z": -2714.372314
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -18921.300781,
+            "y": 295958.875,
+            "z": -2714.372314
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -24036.443359,
+            "y": 297864.78125,
+            "z": -2547.882812
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -24036.443359,
+            "y": 297864.78125,
+            "z": -2547.882812
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -28907.046875,
+            "y": 296903.65625,
+            "z": -2374.40625
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -28907.046875,
+            "y": 296903.65625,
+            "z": -2374.40625
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -34113.851562,
+            "y": 295138.1875,
+            "z": -2361.764404
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -34113.851562,
+            "y": 295138.1875,
+            "z": -2361.764404
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -36388.921875,
+            "y": 294509.625,
+            "z": -2295.420166
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -13007.842773,
+            "y": 295709.4375,
+            "z": -2403.220947
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -18404.025391,
+            "y": 295976.375,
+            "z": -2721.403076
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -18404.025391,
+            "y": 295976.375,
+            "z": -2721.403076
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -18888.357422,
+            "y": 296133.0,
+            "z": -2719.73999
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -18888.357422,
+            "y": 296133.0,
+            "z": -2719.73999
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -24055.388672,
+            "y": 298049.625,
+            "z": -2557.393555
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -24055.388672,
+            "y": 298049.625,
+            "z": -2557.393555
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -29064.691406,
+            "y": 297030.25,
+            "z": -2346.060791
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -29064.691406,
+            "y": 297030.25,
+            "z": -2346.060791
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -34153.480469,
+            "y": 295300.65625,
+            "z": -2359.951416
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -34153.480469,
+            "y": 295300.65625,
+            "z": -2359.951416
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -35328.230469,
+            "y": 295119.78125,
+            "z": -2315.792236
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -35328.230469,
+            "y": 295119.78125,
+            "z": -2315.792236
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -36743.382812,
+            "y": 294981.34375,
+            "z": -2284.133301
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47136.179688,
+            "y": 296398.875,
+            "z": -2429.392578
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -46350.386719,
+            "y": 295437.84375,
+            "z": -2438.980713
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -46211.167969,
+            "y": 296396.6875,
+            "z": -2437.229492
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -46111.167969,
+            "y": 296223.5,
+            "z": -2437.229492
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -40792.070312,
+            "y": 294219.75,
+            "z": -2409.154541
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42705.894531,
+            "y": 295577.03125,
+            "z": -2397.084961
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -42705.894531,
+            "y": 295577.03125,
+            "z": -2397.084961
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -45708.816406,
+            "y": 297055.25,
+            "z": -2428.598389
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -46642.703125,
+            "y": 298189.1875,
+            "z": -2419.875977
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -45705.589844,
+            "y": 296431.75,
+            "z": -2435.850342
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -45973.589844,
+            "y": 294385.21875,
+            "z": -2438.980713
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -45423.738281,
+            "y": 293432.875,
+            "z": -2425.608154
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -45708.816406,
+            "y": 297055.25,
+            "z": -2028.598389
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -47132.453125,
+            "y": 295889.84375,
+            "z": -2037.971191
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -45705.589844,
+            "y": 296431.75,
+            "z": -2435.850342
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -45484.363281,
+            "y": 295937.84375,
+            "z": -2438.980713
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -45613.257812,
+            "y": 296470.15625,
+            "z": -2435.850342
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -44475.164062,
+            "y": 295842.75,
+            "z": -2435.86084
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -44475.164062,
+            "y": 295842.75,
+            "z": -2435.86084
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -44277.023438,
+            "y": 295165.5,
+            "z": -2434.694824
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -44277.023438,
+            "y": 295165.5,
+            "z": -2434.694824
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -45077.328125,
+            "y": 293632.875,
+            "z": -2425.608154
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -65934.8125,
+            "y": 275151.0625,
+            "z": -3564.375
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -64292.582031,
+            "y": 272937.4375,
+            "z": -3609.028564
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -96664.195312,
+            "y": 263619.28125,
+            "z": -4482.960449
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -94127.015625,
+            "y": 261116.78125,
+            "z": -4399.990234
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -91620.320312,
+            "y": 266355.46875,
+            "z": -2878.956299
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -89378.789062,
+            "y": 267153.5625,
+            "z": -3051.467529
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -93206.570312,
+            "y": 268116.21875,
+            "z": -2984.143311
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -89412.265625,
+            "y": 267247.78125,
+            "z": -3051.467529
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -94292.632812,
+            "y": 262163.28125,
+            "z": -4479.790527
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -93363.445312,
+            "y": 261383.609375,
+            "z": -4399.990234
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -67996.992188,
+            "y": 272199.21875,
+            "z": -3723.88623
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -64155.773438,
+            "y": 272561.5625,
+            "z": -3609.028564
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -63822.734375,
+            "y": 273108.4375,
+            "z": -3609.028564
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -63100.703125,
+            "y": 273371.21875,
+            "z": -3695.304688
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -62348.945312,
+            "y": 273644.84375,
+            "z": -3695.304688
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -61102.726562,
+            "y": 274098.4375,
+            "z": -3691.114014
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -60538.914062,
+            "y": 274303.625,
+            "z": -3691.114014
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -59630.339844,
+            "y": 275143.21875,
+            "z": -3680.504395
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -59763.386719,
+            "y": 273627.8125,
+            "z": -3705.392578
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -59323.921875,
+            "y": 274886.09375,
+            "z": -3680.504395
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -61510.285156,
+            "y": 271399.6875,
+            "z": -3689.232422
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -60728.644531,
+            "y": 273063.65625,
+            "z": -3705.392578
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -62039.707031,
+            "y": 272282.6875,
+            "z": -3732.796875
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -60865.453125,
+            "y": 273439.53125,
+            "z": -3705.392578
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -62758.53125,
+            "y": 270583.0625,
+            "z": -3727.574463
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -62416.5,
+            "y": 271230.0625,
+            "z": -3732.796875
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -63451.351562,
+            "y": 270983.0625,
+            "z": -3744.155029
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -62762.914062,
+            "y": 271430.0625,
+            "z": -3732.796875
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -64451.050781,
+            "y": 269609.5625,
+            "z": -3721.416748
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -63058.53125,
+            "y": 270063.4375,
+            "z": -3727.574463
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -64751.050781,
+            "y": 270138.28125,
+            "z": -3754.676758
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -63751.351562,
+            "y": 270463.4375,
+            "z": -3744.155029
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -62566.464844,
+            "y": 269570.3125,
+            "z": -3722.847412
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -61810.285156,
+            "y": 270880.0625,
+            "z": -3689.232422
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -65482.542969,
+            "y": 267326.28125,
+            "z": -3752.352539
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -62566.464844,
+            "y": 269570.3125,
+            "z": -3722.847412
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -66294.515625,
+            "y": 267635.125,
+            "z": -3752.350342
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65482.542969,
+            "y": 267326.28125,
+            "z": -3752.352539
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -65958.460938,
+            "y": 269026.59375,
+            "z": -3755.800781
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -66294.515625,
+            "y": 267635.125,
+            "z": -3752.350342
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -94127.015625,
+            "y": 261116.78125,
+            "z": -4399.990234
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -93351.125,
+            "y": 261242.71875,
+            "z": -4399.990234
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -67057.976562,
+            "y": 270417.90625,
+            "z": -3672.948486
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -66326.578125,
+            "y": 270072.5,
+            "z": -3766.630859
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -66672.304688,
+            "y": 270877.53125,
+            "z": -3668.231934
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -66198.015625,
+            "y": 270225.6875,
+            "z": -3766.630859
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -66185.695312,
+            "y": 270084.8125,
+            "z": -3766.630859
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65966.585938,
+            "y": 269900.96875,
+            "z": -3759.963623
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -65954.265625,
+            "y": 269760.09375,
+            "z": -3759.963623
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65958.460938,
+            "y": 269026.59375,
+            "z": -3755.800781
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -65813.382812,
+            "y": 269772.40625,
+            "z": -3759.963623
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65051.050781,
+            "y": 269609.5625,
+            "z": -3721.416748
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -65825.703125,
+            "y": 269913.28125,
+            "z": -3759.963623
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -64751.050781,
+            "y": 270138.28125,
+            "z": -3754.676758
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68767.984375,
+            "y": 271821.40625,
+            "z": -3693.697998
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -67996.992188,
+            "y": 272199.21875,
+            "z": -3723.88623
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -58770.0625,
+            "y": 275857.3125,
+            "z": -3680.504395
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -58516.0625,
+            "y": 276372.875,
+            "z": -3681.465332
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68723.976562,
+            "y": 271731.59375,
+            "z": -3693.697998
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68423.867188,
+            "y": 271440.21875,
+            "z": -3693.531738
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68295.695312,
+            "y": 271500.0,
+            "z": -3693.531738
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -67055.328125,
+            "y": 271198.9375,
+            "z": -3668.231934
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68235.929688,
+            "y": 271371.84375,
+            "z": -3693.531738
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -67441.0,
+            "y": 270739.3125,
+            "z": -3672.948486
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -92520.5,
+            "y": 262232.625,
+            "z": -3303.944824
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -88867.617188,
+            "y": 265040.9375,
+            "z": -3473.820557
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -88867.617188,
+            "y": 265040.9375,
+            "z": -3473.820557
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -89345.3125,
+            "y": 267059.34375,
+            "z": -3051.467529
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -93222.5625,
+            "y": 261395.9375,
+            "z": -4399.990234
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -92520.5,
+            "y": 262232.625,
+            "z": -4403.944824
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -66062.984375,
+            "y": 275210.84375,
+            "z": -3564.375
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -69523.148438,
+            "y": 272120.34375,
+            "z": -3521.400146
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68918.96875,
+            "y": 270518.15625,
+            "z": -3471.395264
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -67863.148438,
+            "y": 265844.53125,
+            "z": -3754.685791
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -69523.148438,
+            "y": 272120.34375,
+            "z": -3521.400146
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68918.96875,
+            "y": 270518.15625,
+            "z": -3471.395264
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -90506.671875,
+            "y": 257435.9375,
+            "z": -4399.991211
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -85677.070312,
+            "y": 260248.65625,
+            "z": -4383.331055
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -70614.351562,
+            "y": 271168.59375,
+            "z": -3605.049316
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -72969.984375,
+            "y": 268083.0625,
+            "z": -3846.355957
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -72969.984375,
+            "y": 268083.0625,
+            "z": -3846.355957
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -72471.25,
+            "y": 266280.75,
+            "z": -3755.90918
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -67613.148438,
+            "y": 265411.5,
+            "z": -3754.685791
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -67406.085938,
+            "y": 265052.875,
+            "z": -3755.012207
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -67106.085938,
+            "y": 264533.25,
+            "z": -3755.012207
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -66717.671875,
+            "y": 263860.5,
+            "z": -3722.78833
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68504.171875,
+            "y": 264954.8125,
+            "z": -3754.685791
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68282.117188,
+            "y": 264570.21875,
+            "z": -3755.467773
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -67982.117188,
+            "y": 264050.59375,
+            "z": -3755.467773
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -67064.078125,
+            "y": 263660.5,
+            "z": -3722.78833
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -66003.21875,
+            "y": 275339.0,
+            "z": -3564.375
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -67704.96875,
+            "y": 275165.0625,
+            "z": -3636.727783
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -67704.96875,
+            "y": 275165.0625,
+            "z": -3636.727783
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -70614.351562,
+            "y": 271168.59375,
+            "z": -3605.049316
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -92752.882812,
+            "y": 254759.0,
+            "z": -4347.898926
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -92435.71875,
+            "y": 255136.984375,
+            "z": -4352.917969
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -82440.8125,
+            "y": 275362.21875,
+            "z": -6149.543457
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -78030.179688,
+            "y": 272815.75,
+            "z": -5779.385742
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -78030.179688,
+            "y": 272815.75,
+            "z": -5779.385742
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -73789.507812,
+            "y": 269678.25,
+            "z": -4721.443848
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -73789.507812,
+            "y": 269678.25,
+            "z": -4721.443848
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -69957.539062,
+            "y": 267472.125,
+            "z": -3933.620605
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -69957.539062,
+            "y": 267472.125,
+            "z": -3933.620605
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -69307.257812,
+            "y": 266345.8125,
+            "z": -3771.503418
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -92435.71875,
+            "y": 255136.984375,
+            "z": -4352.917969
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -90506.671875,
+            "y": 257435.9375,
+            "z": -4399.991211
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -91667.710938,
+            "y": 253770.28125,
+            "z": -4350.006836
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -92359.117188,
+            "y": 255072.703125,
+            "z": -4352.917969
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -85677.070312,
+            "y": 260248.65625,
+            "z": -4383.331055
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -83173.8125,
+            "y": 261699.40625,
+            "z": -4052.611816
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -83173.8125,
+            "y": 261699.40625,
+            "z": -4052.611816
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -79585.765625,
+            "y": 263778.84375,
+            "z": -3776.049316
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -79585.765625,
+            "y": 263778.84375,
+            "z": -3776.049316
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -75298.632812,
+            "y": 266263.4375,
+            "z": -3553.024902
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -75298.632812,
+            "y": 266263.4375,
+            "z": -3553.024902
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -70048.007812,
+            "y": 268105.375,
+            "z": -3816.789062
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -70048.007812,
+            "y": 268105.375,
+            "z": -3816.789062
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68209.554688,
+            "y": 265644.53125,
+            "z": -3754.685791
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -66340.875,
+            "y": 262807.875,
+            "z": -3722.78833
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65931.398438,
+            "y": 262098.640625,
+            "z": -3675.772217
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68674.9375,
+            "y": 263650.59375,
+            "z": -3752.601807
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68472.78125,
+            "y": 263300.46875,
+            "z": -3756.102539
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68172.78125,
+            "y": 262780.84375,
+            "z": -3756.102539
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -66277.804688,
+            "y": 261898.640625,
+            "z": -3675.772217
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -65554.601562,
+            "y": 261046.015625,
+            "z": -3675.772217
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65220.347656,
+            "y": 260467.078125,
+            "z": -3753.05835
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -69057.257812,
+            "y": 265912.78125,
+            "z": -3771.503418
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68579.171875,
+            "y": 265084.71875,
+            "z": -3756.386719
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68579.171875,
+            "y": 265084.71875,
+            "z": -3756.386719
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68504.171875,
+            "y": 264954.8125,
+            "z": -3754.685791
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -69459.734375,
+            "y": 261809.90625,
+            "z": -3834.39624
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68488.734375,
+            "y": 261528.078125,
+            "z": -3757.241699
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -48377.296875,
+            "y": 294610.625,
+            "z": -2453.131836
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48095.28125,
+            "y": 295385.46875,
+            "z": -2439.494385
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -47821.664062,
+            "y": 296137.21875,
+            "z": -2439.494385
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -48803.851562,
+            "y": 297625.4375,
+            "z": -2436.10791
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -41969.476562,
+            "y": 290393.53125,
+            "z": -2441.610352
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42149.359375,
+            "y": 290887.75,
+            "z": -2394.15918
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -44700.53125,
+            "y": 292580.25,
+            "z": -2425.608154
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -44563.730469,
+            "y": 291943.28125,
+            "z": -2455.871338
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -69221.328125,
+            "y": 264597.0,
+            "z": -3751.45874
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68974.9375,
+            "y": 264170.21875,
+            "z": -3752.601807
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -45107.566406,
+            "y": 294885.21875,
+            "z": -2438.980713
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -44632.539062,
+            "y": 294256.25,
+            "z": -2238.76416
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -37917.757812,
+            "y": 293979.03125,
+            "z": -2271.810791
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -40781.105469,
+            "y": 294387.375,
+            "z": -2410.586914
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -37143.382812,
+            "y": 294288.53125,
+            "z": -2284.133301
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -37917.757812,
+            "y": 293979.03125,
+            "z": -2271.810791
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -56702.113281,
+            "y": 294261.8125,
+            "z": -2343.436279
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -57878.1875,
+            "y": 292900.0625,
+            "z": -2474.898926
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -63377.316406,
+            "y": 261069.28125,
+            "z": -3779.912354
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -61141.964844,
+            "y": 266130.71875,
+            "z": -3749.846924
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -44163.730469,
+            "y": 291250.46875,
+            "z": -2455.871338
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -43480.667969,
+            "y": 291339.03125,
+            "z": -2494.287842
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -57708.398438,
+            "y": 273659.6875,
+            "z": -3738.861328
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -57237.367188,
+            "y": 269814.09375,
+            "z": -3805.482422
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -57523.136719,
+            "y": 274667.625,
+            "z": -3739.47998
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -57708.398438,
+            "y": 273659.6875,
+            "z": -3738.861328
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -43480.667969,
+            "y": 291339.03125,
+            "z": -2494.287842
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42957.011719,
+            "y": 293470.53125,
+            "z": -2398.277832
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -40781.105469,
+            "y": 294387.375,
+            "z": -2410.586914
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42490.503906,
+            "y": 295623.75,
+            "z": -2202.735107
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -42490.503906,
+            "y": 295623.75,
+            "z": -2202.735107
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42953.125,
+            "y": 295235.15625,
+            "z": -2195.980469
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -42953.125,
+            "y": 295235.15625,
+            "z": -2195.980469
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42956.816406,
+            "y": 293670.53125,
+            "z": -2398.277832
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -61141.964844,
+            "y": 266130.71875,
+            "z": -3749.846924
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -57273.96875,
+            "y": 269677.5,
+            "z": -3805.482422
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -58001.835938,
+            "y": 276985.6875,
+            "z": -3681.465332
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -57523.136719,
+            "y": 274667.625,
+            "z": -3739.47998
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -42853.414062,
+            "y": 299899.71875,
+            "z": -2099.398438
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -43492.21875,
+            "y": 299646.375,
+            "z": -2094.936523
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -43092.21875,
+            "y": 298953.5625,
+            "z": -2094.936523
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42825.355469,
+            "y": 296798.15625,
+            "z": -2046.209961
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -42825.355469,
+            "y": 296798.15625,
+            "z": -2046.209961
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -43146.859375,
+            "y": 295319.03125,
+            "z": -2194.801025
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -44632.539062,
+            "y": 294256.25,
+            "z": -2238.76416
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -43777.601562,
+            "y": 293837.40625,
+            "z": -2335.635498
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -43777.601562,
+            "y": 293837.40625,
+            "z": -2335.635498
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -43056.914062,
+            "y": 293570.625,
+            "z": -2398.277832
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -43146.859375,
+            "y": 295319.03125,
+            "z": -2194.801025
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -43735.65625,
+            "y": 293928.1875,
+            "z": -2335.635498
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -69367.757812,
+            "y": 263250.59375,
+            "z": -3739.414795
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -69167.757812,
+            "y": 262904.1875,
+            "z": -3739.414795
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -70060.578125,
+            "y": 262850.59375,
+            "z": -3739.414795
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -69459.734375,
+            "y": 261809.90625,
+            "z": -3834.39624
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68867.757812,
+            "y": 262384.5625,
+            "z": -3739.414795
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68452.132812,
+            "y": 261664.6875,
+            "z": -3757.241699
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68665.773438,
+            "y": 265034.71875,
+            "z": -3756.386719
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -69184.726562,
+            "y": 264733.59375,
+            "z": -3751.45874
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -65090.484375,
+            "y": 259276.875,
+            "z": -3804.334961
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -64220.566406,
+            "y": 259425.203125,
+            "z": -3820.995605
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -64820.347656,
+            "y": 259774.265625,
+            "z": -3753.05835
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -64145.449219,
+            "y": 260052.515625,
+            "z": -3759.968018
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -64145.449219,
+            "y": 260052.515625,
+            "z": -3759.968018
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -63377.316406,
+            "y": 261069.28125,
+            "z": -3779.912354
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -64220.566406,
+            "y": 259425.203125,
+            "z": -3820.995605
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -64065.925781,
+            "y": 259991.890625,
+            "z": -3759.968018
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -67107.109375,
+            "y": 260190.515625,
+            "z": -3721.17334
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65090.484375,
+            "y": 259276.875,
+            "z": -3804.334961
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -69357.929688,
+            "y": 264633.59375,
+            "z": -3751.45874
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -69667.757812,
+            "y": 263770.21875,
+            "z": -3739.414795
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -68352.132812,
+            "y": 261491.46875,
+            "z": -3757.241699
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -67107.109375,
+            "y": 260190.515625,
+            "z": -3721.17334
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.1",
+        "ItemName": "",
+        "location0": {
+            "x": -69321.328125,
+            "y": 264770.1875,
+            "z": -3751.45874
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -70360.578125,
+            "y": 263370.21875,
+            "z": -3739.414795
+        },
+        "Connected1": true,
+        "Speed": 120.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -65937.609375,
+            "y": 296082.875,
+            "z": -5831.102539
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -66480.421875,
+            "y": 291689.40625,
+            "z": -5575.634766
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -66480.421875,
+            "y": 291689.40625,
+            "z": -5575.634766
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65430.417969,
+            "y": 289870.78125,
+            "z": -5312.303223
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -65430.417969,
+            "y": 289870.78125,
+            "z": -5312.303223
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -62780.414062,
+            "y": 285280.90625,
+            "z": -5312.303223
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -62780.414062,
+            "y": 285280.90625,
+            "z": -5312.303223
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -61157.984375,
+            "y": 282619.40625,
+            "z": -4204.424805
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -61157.984375,
+            "y": 282619.40625,
+            "z": -4204.424805
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -59639.171875,
+            "y": 280542.25,
+            "z": -3732.759766
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -61123.332031,
+            "y": 276869.5625,
+            "z": -3562.746582
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -64636.007812,
+            "y": 275730.21875,
+            "z": -3496.195312
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -59535.457031,
+            "y": 279773.875,
+            "z": -3662.072998
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -61123.332031,
+            "y": 276869.5625,
+            "z": -3562.746582
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -59639.171875,
+            "y": 280542.25,
+            "z": -3732.759766
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -59535.457031,
+            "y": 279773.875,
+            "z": -3662.072998
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -70241.664062,
+            "y": 271099.25,
+            "z": -3632.515869
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -68767.984375,
+            "y": 271821.40625,
+            "z": -3693.697998
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -72479.484375,
+            "y": 270002.96875,
+            "z": -4100.459961
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -70241.664062,
+            "y": 271099.25,
+            "z": -3632.515869
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -75914.71875,
+            "y": 268547.6875,
+            "z": -3784.750977
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -72479.484375,
+            "y": 270002.96875,
+            "z": -4100.459961
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -78100.179688,
+            "y": 267528.78125,
+            "z": -3784.785645
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -75914.71875,
+            "y": 268547.6875,
+            "z": -3784.750977
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -82710.0625,
+            "y": 267902.34375,
+            "z": -3581.466797
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -78100.179688,
+            "y": 267528.78125,
+            "z": -3784.785645
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -86463.289062,
+            "y": 268188.9375,
+            "z": -3289.521973
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -82710.0625,
+            "y": 267902.34375,
+            "z": -3581.466797
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -89378.789062,
+            "y": 267153.5625,
+            "z": -3051.467529
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -86463.289062,
+            "y": 268188.9375,
+            "z": -3289.521973
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -65387.765625,
+            "y": 275456.59375,
+            "z": -3496.195312
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -65875.046875,
+            "y": 275279.21875,
+            "z": -3564.375
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -42856.914062,
+            "y": 293570.4375,
+            "z": -2398.277832
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -42510.179688,
+            "y": 293570.4375,
+            "z": -2392.844971
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    },
+    {
+        "BeltName": "Conveyor Belt Mk.2",
+        "ItemName": "",
+        "location0": {
+            "x": -57137.367188,
+            "y": 269640.90625,
+            "z": -3805.482422
+        },
+        "Connected0": true,
+        "location1": {
+            "x": -56868.566406,
+            "y": 269175.3125,
+            "z": -3805.46875
+        },
+        "Connected1": true,
+        "Speed": 240.0
+    }
+]
