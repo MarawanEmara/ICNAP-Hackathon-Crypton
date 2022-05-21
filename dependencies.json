@@ -1,0 +1,538 @@
+[
+    {
+        "building": "FoundrySI0",
+        "output": [
+            "Steel Ingot"
+        ],
+        "input": [
+            "Iron Ore",
+            "Coal"
+        ]
+    },
+    {
+        "building": "FoundrySI1",
+        "output": [
+            "Steel Ingot"
+        ],
+        "input": [
+            "Iron Ore",
+            "Coal"
+        ]
+    },
+    {
+        "building": "SmelterII0",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterCI1",
+        "output": [
+            "Copper Ingot"
+        ],
+        "input": [
+            "Copper Ore"
+        ]
+    },
+    {
+        "building": "SmelterII2",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterII3",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterII4",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterII5",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterII6",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterII7",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterII8",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterII9",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterII10",
+        "output": [
+            "Iron Ingot"
+        ],
+        "input": [
+            "Iron Ore"
+        ]
+    },
+    {
+        "building": "SmelterCI11",
+        "output": [
+            "Copper Ingot"
+        ],
+        "input": [
+            "Copper Ore"
+        ]
+    },
+    {
+        "building": "ConstructorIR0",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorS1",
+        "output": [
+            "Screw"
+        ],
+        "input": [
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "ConstructorIP2",
+        "output": [
+            "Iron Plate"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorW3",
+        "output": [
+            "Wire"
+        ],
+        "input": [
+            "Copper Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorC4",
+        "output": [
+            "Cable"
+        ],
+        "input": [
+            "Wire"
+        ]
+    },
+    {
+        "building": "ConstructorC5",
+        "output": [
+            "Concrete"
+        ],
+        "input": [
+            "Limestone"
+        ]
+    },
+    {
+        "building": "ConstructorIR6",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIR7",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorW8",
+        "output": [
+            "Wire"
+        ],
+        "input": [
+            "Copper Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIR9",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorS10",
+        "output": [
+            "Screw"
+        ],
+        "input": [
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "ConstructorS11",
+        "output": [
+            "Screw"
+        ],
+        "input": [
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "ConstructorIR12",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorS13",
+        "output": [
+            "Screw"
+        ],
+        "input": [
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "ConstructorS14",
+        "output": [
+            "Screw"
+        ],
+        "input": [
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "ConstructorB15",
+        "output": [
+            "Biomass"
+        ],
+        "input": [
+            "Leaves"
+        ]
+    },
+    {
+        "building": "ConstructorIR16",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIR17",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIP18",
+        "output": [
+            "Iron Plate"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIP19",
+        "output": [
+            "Iron Plate"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorSB20",
+        "output": [
+            "Steel Beam"
+        ],
+        "input": [
+            "Steel Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIR21",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIR22",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIP23",
+        "output": [
+            "Iron Plate"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorS24",
+        "output": [
+            "Screw"
+        ],
+        "input": [
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "ConstructorSP25",
+        "output": [
+            "Steel Pipe"
+        ],
+        "input": [
+            "Steel Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorW26",
+        "output": [
+            "Wire"
+        ],
+        "input": [
+            "Copper Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorW27",
+        "output": [
+            "Wire"
+        ],
+        "input": [
+            "Copper Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorC28",
+        "output": [
+            "Cable"
+        ],
+        "input": [
+            "Wire"
+        ]
+    },
+    {
+        "building": "ConstructorW29",
+        "output": [
+            "Wire"
+        ],
+        "input": [
+            "Copper Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorCS30",
+        "output": [
+            "Copper Sheet"
+        ],
+        "input": [
+            "Copper Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorC31",
+        "output": [
+            "Cable"
+        ],
+        "input": [
+            "Wire"
+        ]
+    },
+    {
+        "building": "AssemblerRIP0",
+        "output": [
+            "Reinforced Iron Plate"
+        ],
+        "input": [
+            "Iron Plate",
+            "Screw"
+        ]
+    },
+    {
+        "building": "AssemblerR1",
+        "output": [
+            "Rotor"
+        ],
+        "input": [
+            "Iron Rod",
+            "Screw"
+        ]
+    },
+    {
+        "building": "AssemblerSP2",
+        "output": [
+            "Smart Plating"
+        ],
+        "input": [
+            "Reinforced Iron Plate",
+            "Rotor"
+        ]
+    },
+    {
+        "building": "AssemblerSP3",
+        "output": [
+            "Smart Plating"
+        ],
+        "input": [
+            "Reinforced Iron Plate",
+            "Rotor"
+        ]
+    },
+    {
+        "building": "AssemblerR4",
+        "output": [
+            "Rotor"
+        ],
+        "input": [
+            "Iron Rod",
+            "Screw"
+        ]
+    },
+    {
+        "building": "AssemblerRIP5",
+        "output": [
+            "Reinforced Iron Plate"
+        ],
+        "input": [
+            "Iron Plate",
+            "Screw"
+        ]
+    },
+    {
+        "building": "AssemblerMF6",
+        "output": [
+            "Modular Frame"
+        ],
+        "input": [
+            "Reinforced Iron Plate",
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "AssemblerVF7",
+        "output": [
+            "Versatile Framework"
+        ],
+        "input": [
+            "Modular Frame",
+            "Steel Beam"
+        ]
+    },
+    {
+        "building": "AssemblerMF8",
+        "output": [
+            "Modular Frame"
+        ],
+        "input": [
+            "Reinforced Iron Plate",
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "AssemblerRIP9",
+        "output": [
+            "Reinforced Iron Plate"
+        ],
+        "input": [
+            "Iron Plate",
+            "Screw"
+        ]
+    },
+    {
+        "building": "AssemblerS10",
+        "output": [
+            "Stator"
+        ],
+        "input": [
+            "Steel Pipe",
+            "Wire"
+        ]
+    },
+    {
+        "building": "AssemblerAW11",
+        "output": [
+            "Automated Wiring"
+        ],
+        "input": [
+            "Stator",
+            "Cable"
+        ]
+    }
+]

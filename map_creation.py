@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import cv2
 import numpy as np
+import networkx as nx
 from matplotlib import pyplot as plt
 
 
@@ -27,7 +28,8 @@ def get_machine_coordinates():
     data = json.load(f) """
     machine_data = []
     for machine in data:
-        temp_data = [machine['location']['x'], machine['location']['y']]
+        temp_data = [machine['location']['x'],
+                     machine['location']['y'], machine['building']]
         machine_data.append(temp_data)
     return machine_data
 
@@ -54,6 +56,16 @@ def get_min_x_y(list):
     return min_x, min_y
 
 
+def get_mining_coordinates():
+    resources = get_resource_node()
+    miners = []
+    for node in resources:
+        if node["Exploited"]:
+            miners.append([node['location']['x'], node['location']['y']])
+
+    return miners
+
+
 def surrounding_coordinates(coordinate, thickness=0):
     # Get all the x, y coordinates surrounding a coordinate
     x = coordinate[0]
@@ -66,6 +78,13 @@ def surrounding_coordinates(coordinate, thickness=0):
 
 
 def draw_map(size_x=1024, size_y=1024, thickness=0):
+    colors = {
+        "Foundry": [0, 200, 200],
+        "Smelter": [200, 200, 0],
+        "Assembler": [200, 0, 200],
+        "Constructor": [250, 200, 0]
+    }
+    miners = get_mining_coordinates()
     # Get the overall factory data
     machine_coordinate = get_machine_coordinates()
     belt_coordinate = get_belt_coordinates()
@@ -80,33 +99,26 @@ def draw_map(size_x=1024, size_y=1024, thickness=0):
     shift_y_mag = abs(min_y)
 
     for machine in machine_coordinate:
-        machine[0] += shift_x_mag
-        machine[0] /= x_difference
-        machine[0] = int(machine[0])
-        machine[1] -= shift_y_mag
-        machine[1] /= y_difference
-        machine[1] = int(machine[1])
+        normalise_x(x_difference, shift_x_mag, machine)
+        normalise_y(y_difference, shift_y_mag, machine)
 
     for belt in belt_coordinate:
-        belt[0][0] += shift_x_mag
-        belt[0][0] /= x_difference
-        belt[0][0] = int(belt[0][0])
+        normalise_x(x_difference, shift_x_mag, belt[0])
         belt[0][0] += int(size_x/25)
-
-        belt[0][1] -= shift_y_mag
-        belt[0][1] /= y_difference
-        belt[0][1] = int(belt[0][1])
+        normalise_y(y_difference, shift_y_mag, belt[0])
         belt[0][1] += int(size_y/25)
 
-        belt[1][0] += shift_x_mag
-        belt[1][0] /= x_difference
-        belt[1][0] = int(belt[1][0])
+        normalise_x(x_difference, shift_x_mag, belt[1])
         belt[1][0] += int(size_x/25)
-
-        belt[1][1] -= shift_y_mag
-        belt[1][1] /= y_difference
-        belt[1][1] = int(belt[1][1])
+        normalise_y(y_difference, shift_y_mag, belt[1])
         belt[1][1] += int(size_y/25)
+
+    for miner in miners:
+        normalise_x(x_difference, shift_x_mag, miner)
+        miner[0] += int(size_x/25)
+
+        normalise_y(y_difference, shift_y_mag, miner)
+        miner[1] += int(size_y/25)
 
     max_x, max_y = get_max_x_y(machine_coordinate)
     min_x, min_y = get_min_x_y(machine_coordinate)
@@ -121,21 +133,90 @@ def draw_map(size_x=1024, size_y=1024, thickness=0):
                     int(size_y/10) + thickness, 3), dtype=np.uint8)
     for machine in machine_coordinate:
         for coordinate in surrounding_coordinates(machine, thickness=thickness):
-            data[coordinate[0], coordinate[1]] = [0, 255, 0]
+            data[coordinate[0], coordinate[1]] = colors[machine[2]]
 
+    for miner in miners:
+        for coordinate in surrounding_coordinates(miner, thickness=thickness):
+            data[coordinate[0], coordinate[1]] = (255, 255, 255)
     # Get all coordinates that form the shortest path two coordinates in belt_coordinates
     # and draw a line between them
 
-    #print(belt_coordinate)
+    # print(belt_coordinate)
 
     for belt in belt_coordinate:
-        data[belt[0][0], belt[0][1]] = [0, 0, 255]
-        data[belt[1][0], belt[1][1]] = [0, 0, 255]
-        """ cv2.line(data, (belt[0][0], belt[0][1]),
-                 (belt[1][0], belt[1][1]), (0, 255, 255)) """
+        data[belt[0][0], belt[0][1]] = [255, 255, 255]
+        data[belt[1][0], belt[1][1]] = [255, 255, 255]
+        cv2.line(data, (belt[0][1], belt[0][0]),
+                 (belt[1][1], belt[1][0]), (0, 255, 255))
 
     plt.imshow(data)
     plt.show()
+
+
+def normalise_y(y_difference, shift_y_mag, item):
+    item[1] -= shift_y_mag
+    item[1] /= y_difference
+    item[1] = int(item[1])
+
+
+def normalise_x(x_difference, shift_x_mag, item):
+    item[0] += shift_x_mag
+    item[0] /= x_difference
+    item[0] = int(item[0])
+
+
+def get_dependencies():
+    #data = get_current_factory_data()
+    # Open the JSON file 'data.json' and assign it to variable data
+    with open('data.json', 'r') as f:
+        data = json.load(f)
+    dependencies = []
+    G = nx.Graph()
+    counter = {}
+    for machine in data:
+        name = []
+
+        for product in machine["production"]:
+            name.extend(word[0] for word in product["Name"].split(" "))
+        name = ''.join(name)
+
+        if machine["building"] not in counter:
+            counter[machine["building"]] = 0
+        else:
+            counter[machine["building"]] += 1
+
+        # print(counter)
+        machinetemp = {"building": machine["building"] +
+                       name + str(counter[machine["building"]]), "output": []}
+
+        for product in machine["production"]:
+            machinetemp["output"].append(product["Name"])
+
+        machinetemp["input"] = []
+        for ingredient in machine["ingredients"]:
+            machinetemp["input"].append(ingredient["Name"])
+        dependencies.append(machinetemp)
+
+    with open('dependencies.json', 'w', encoding='utf-8') as f:
+        json.dump(dependencies, f, ensure_ascii=False, indent=4)
+
+    # Example JSON: {'building': 'Assembler', 'output': ['Reinforced Iron Plate'], 'input': ['Iron Plate', 'Screw']}, {'building': 'Assembler', 'output': ['Rotor'], 'input': ['Iron Rod', 'Screw']}, {'building': 'Assembler', 'output': ['Smart Plating'], 'input': ['Reinforced Iron Plate', 'Rotor']}, {'building': 'Assembler', 'output': ['Smart Plating'], 'input': ['Reinforced Iron Plate', 'Rotor']}
+    # Parse pairwise through the JSON and add edges to the graph if the output of one machine is the input of another
+    for machine in dependencies:
+        for machine2 in dependencies:
+            for output in machine["output"]:
+                if output in machine2["input"]:
+                    G.add_edge(machine["building"],
+                               machine2["building"], length=100)
+
+    nx.draw_networkx(G)
+    # Draw the graph
+    plt.show()
+
+    return(dependencies)
+
+
+# get_dependencies()
 
 
 draw_map(500, 500, 2)

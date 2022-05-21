@@ -2,12 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import * as d3 from "d3";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+const margin, width, height, color...
+
+const Chart = () => {
+    // This will generate the chart
+}
+
+ReactDOM.render(
+    // This will render the DOM
 );
 
 // If you want to start measuring performance in your app, pass a function

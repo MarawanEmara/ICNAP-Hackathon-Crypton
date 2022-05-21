@@ -39,4 +39,8 @@ def get_current_belt_data():
     return(belt_data)
 
 
-get_current_oee()
+def get_resource_node():
+    return requests.get("http://192.168.178.132:8090/getResourceNode").json()
+
+#get_current_oee()
+#print(get_resource_node())
