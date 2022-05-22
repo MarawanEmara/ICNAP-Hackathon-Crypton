@@ -1,451 +1,5 @@
 [
     {
-        "building": "Foundry",
-        "location": {
-            "x": -63942.269531,
-            "y": 272852.09375,
-            "z": -3709.028564,
-            "rotation": 20
-        },
-        "Recipe": "Steel Ingot",
-        "production": [
-            {
-                "Name": "Steel Ingot",
-                "CurrentProd": 0.0,
-                "MaxProd": 45.0,
-                "ProdPercent": "0.0"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 0.0,
-                "MaxConsumed": 45.0,
-                "ConsPercent": "0.0"
-            },
-            {
-                "Name": "Coal",
-                "CurrentConsumed": 0.0,
-                "MaxConsumed": 45.0,
-                "ConsPercent": "0.0"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Foundry",
-        "location": {
-            "x": -67886.351562,
-            "y": 265484.71875,
-            "z": -3854.685791,
-            "rotation": -60
-        },
-        "Recipe": "Steel Ingot",
-        "production": [
-            {
-                "Name": "Steel Ingot",
-                "CurrentProd": 3.4,
-                "MaxProd": 45.0,
-                "ProdPercent": "7.5"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 3.4,
-                "MaxConsumed": 45.0,
-                "ConsPercent": "7.5"
-            },
-            {
-                "Name": "Coal",
-                "CurrentConsumed": 3.4,
-                "MaxConsumed": 45.0,
-                "ConsPercent": "7.5"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": false,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -49151.671875,
-            "y": 288833.21875,
-            "z": -2528.036865,
-            "rotation": 160
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 22.0,
-                "MaxProd": 30.0,
-                "ProdPercent": "73.300003"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 22.0,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "73.300003"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -38688.910156,
-            "y": 296490.3125,
-            "z": -2330.459717,
-            "rotation": 160
-        },
-        "Recipe": "Copper Ingot",
-        "production": [
-            {
-                "Name": "Copper Ingot",
-                "CurrentProd": 29.4,
-                "MaxProd": 30.0,
-                "ProdPercent": "98.0"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Copper Ore",
-                "CurrentConsumed": 29.4,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "98.0"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -49758.816406,
-            "y": 287165.09375,
-            "z": -2545.762939,
-            "rotation": 160
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 19.1,
-                "MaxProd": 30.0,
-                "ProdPercent": "63.5"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 19.1,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "63.5"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -49883.910156,
-            "y": 301434.84375,
-            "z": -2554.812256,
-            "rotation": -70
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 25.9,
-                "MaxProd": 30.0,
-                "ProdPercent": "86.300003"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 25.9,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "86.300003"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -46079.894531,
-            "y": 301302.03125,
-            "z": -2544.318359,
-            "rotation": 220
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 14.8,
-                "MaxProd": 30.0,
-                "ProdPercent": "49.400002"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 14.8,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "49.400002"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": false,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -10953.238281,
-            "y": 294224.46875,
-            "z": -2466.015137,
-            "rotation": 160
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 14.7,
-                "MaxProd": 30.0,
-                "ProdPercent": "49.0"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 14.7,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "49.0"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": false,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -11158.450195,
-            "y": 293660.65625,
-            "z": -2455.492188,
-            "rotation": 160
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 0.0,
-                "MaxProd": 30.0,
-                "ProdPercent": "0.0"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 0.0,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "0.0"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": false,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -11363.662109,
-            "y": 293096.84375,
-            "z": -2455.492188,
-            "rotation": 160
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 0.0,
-                "MaxProd": 30.0,
-                "ProdPercent": "0.0"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 0.0,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "0.0"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": false,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -10748.026367,
-            "y": 294788.28125,
-            "z": -2446.793945,
-            "rotation": 160
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 15.1,
-                "MaxProd": 30.0,
-                "ProdPercent": "50.200001"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 15.1,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "50.200001"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": false,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -67211.1875,
-            "y": 270546.46875,
-            "z": -3772.948486,
-            "rotation": -40
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 12.4,
-                "MaxProd": 30.0,
-                "ProdPercent": "41.200001"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 12.4,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "41.200001"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -66825.515625,
-            "y": 271006.09375,
-            "z": -3768.231934,
-            "rotation": -40
-        },
-        "Recipe": "Iron Ingot",
-        "production": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentProd": 15.2,
-                "MaxProd": 30.0,
-                "ProdPercent": "50.599998"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ore",
-                "CurrentConsumed": 15.2,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "50.599998"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -69157.257812,
-            "y": 266086.0,
-            "z": -3871.503418,
-            "rotation": -60
-        },
-        "Recipe": "Copper Ingot",
-        "production": [
-            {
-                "Name": "Copper Ingot",
-                "CurrentProd": 29.4,
-                "MaxProd": 30.0,
-                "ProdPercent": "98.0"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Copper Ore",
-                "CurrentConsumed": 29.4,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "98.0"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
         "building": "Constructor",
         "location": {
             "x": -50178.910156,
@@ -457,17 +11,17 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 11.4,
+                "CurrentProd": 14.4,
                 "MaxProd": 15.0,
-                "ProdPercent": "76.099998"
+                "ProdPercent": "95.699997"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 11.4,
+                "CurrentConsumed": 14.4,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "76.099998"
+                "ConsPercent": "95.699997"
             }
         ],
         "ManuSpeed": 1.0,
@@ -488,17 +42,17 @@
         "production": [
             {
                 "Name": "Screw",
-                "CurrentProd": 31.4,
+                "CurrentProd": 35.900002,
                 "MaxProd": 40.0,
-                "ProdPercent": "78.400002"
+                "ProdPercent": "89.800003"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 7.8,
+                "CurrentConsumed": 9.0,
                 "MaxConsumed": 10.0,
-                "ConsPercent": "78.400002"
+                "ConsPercent": "89.800003"
             }
         ],
         "ManuSpeed": 1.0,
@@ -519,17 +73,17 @@
         "production": [
             {
                 "Name": "Iron Plate",
-                "CurrentProd": 15.7,
+                "CurrentProd": 18.0,
                 "MaxProd": 20.0,
-                "ProdPercent": "78.400002"
+                "ProdPercent": "89.800003"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 23.5,
+                "CurrentConsumed": 26.9,
                 "MaxConsumed": 30.0,
-                "ConsPercent": "78.400002"
+                "ConsPercent": "89.800003"
             }
         ],
         "ManuSpeed": 1.0,
@@ -550,17 +104,17 @@
         "production": [
             {
                 "Name": "Wire",
-                "CurrentProd": 0.1,
+                "CurrentProd": 30.0,
                 "MaxProd": 30.0,
-                "ProdPercent": "0.4"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Copper Ingot",
-                "CurrentConsumed": 0.1,
+                "CurrentConsumed": 15.0,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "0.4"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -581,17 +135,17 @@
         "production": [
             {
                 "Name": "Cable",
-                "CurrentProd": 29.5,
+                "CurrentProd": 30.0,
                 "MaxProd": 30.0,
-                "ProdPercent": "98.400002"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Wire",
-                "CurrentConsumed": 59.099998,
+                "CurrentConsumed": 60.0,
                 "MaxConsumed": 60.0,
-                "ConsPercent": "98.400002"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -612,22 +166,22 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 11.6,
+                "CurrentProd": 15.0,
                 "MaxProd": 15.0,
-                "ProdPercent": "77.300003"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 11.6,
+                "CurrentConsumed": 15.0,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "77.300003"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": false,
+        "IsProducing": true,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -643,17 +197,17 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 11.1,
+                "CurrentProd": 14.4,
                 "MaxProd": 15.0,
-                "ProdPercent": "74.099998"
+                "ProdPercent": "95.699997"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 11.1,
+                "CurrentConsumed": 14.4,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "74.099998"
+                "ConsPercent": "95.699997"
             }
         ],
         "ManuSpeed": 1.0,
@@ -674,17 +228,17 @@
         "production": [
             {
                 "Name": "Wire",
-                "CurrentProd": 0.0,
+                "CurrentProd": 30.0,
                 "MaxProd": 30.0,
-                "ProdPercent": "0.0"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Copper Ingot",
-                "CurrentConsumed": 0.0,
+                "CurrentConsumed": 15.0,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "0.0"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -705,17 +259,17 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 0.1,
+                "CurrentProd": 15.0,
                 "MaxProd": 15.0,
-                "ProdPercent": "0.4"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 0.1,
+                "CurrentConsumed": 15.0,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "0.4"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -736,17 +290,17 @@
         "production": [
             {
                 "Name": "Screw",
-                "CurrentProd": 30.4,
+                "CurrentProd": 40.0,
                 "MaxProd": 40.0,
-                "ProdPercent": "76.099998"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 7.6,
+                "CurrentConsumed": 10.0,
                 "MaxConsumed": 10.0,
-                "ConsPercent": "76.099998"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -767,17 +321,17 @@
         "production": [
             {
                 "Name": "Screw",
-                "CurrentProd": 30.4,
+                "CurrentProd": 40.0,
                 "MaxProd": 40.0,
-                "ProdPercent": "76.099998"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 7.6,
+                "CurrentConsumed": 10.0,
                 "MaxConsumed": 10.0,
-                "ConsPercent": "76.099998"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -798,17 +352,17 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 0.1,
+                "CurrentProd": 15.0,
                 "MaxProd": 15.0,
-                "ProdPercent": "0.4"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 0.1,
+                "CurrentConsumed": 15.0,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "0.4"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -829,17 +383,17 @@
         "production": [
             {
                 "Name": "Screw",
-                "CurrentProd": 33.299999,
+                "CurrentProd": 32.5,
                 "MaxProd": 40.0,
-                "ProdPercent": "83.099998"
+                "ProdPercent": "81.199997"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 8.3,
+                "CurrentConsumed": 8.1,
                 "MaxConsumed": 10.0,
-                "ConsPercent": "83.099998"
+                "ConsPercent": "81.199997"
             }
         ],
         "ManuSpeed": 1.0,
@@ -860,22 +414,53 @@
         "production": [
             {
                 "Name": "Screw",
-                "CurrentProd": 19.299999,
+                "CurrentProd": 40.0,
                 "MaxProd": 40.0,
-                "ProdPercent": "48.200001"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 4.8,
+                "CurrentConsumed": 10.0,
                 "MaxConsumed": 10.0,
-                "ConsPercent": "48.200001"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
         "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Constructor",
+        "location": {
+            "x": -67037.429688,
+            "y": 264518.53125,
+            "z": -3855.467773,
+            "rotation": -60
+        },
+        "Recipe": "Steel Pipe",
+        "production": [
+            {
+                "Name": "Steel Pipe",
+                "CurrentProd": 6.0,
+                "MaxProd": 20.0,
+                "ProdPercent": "30.200001"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Steel Ingot",
+                "CurrentConsumed": 9.1,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "30.200001"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": false,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -891,22 +476,22 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 0.1,
+                "CurrentProd": 3.5,
                 "MaxProd": 15.0,
-                "ProdPercent": "0.4"
+                "ProdPercent": "23.5"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 0.1,
+                "CurrentConsumed": 3.5,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "0.4"
+                "ConsPercent": "23.5"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": true,
+        "IsProducing": false,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -922,22 +507,22 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 0.1,
+                "CurrentProd": 3.4,
                 "MaxProd": 15.0,
-                "ProdPercent": "0.4"
+                "ProdPercent": "22.700001"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 0.1,
+                "CurrentConsumed": 3.4,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "0.4"
+                "ConsPercent": "22.700001"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": true,
+        "IsProducing": false,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -953,53 +538,22 @@
         "production": [
             {
                 "Name": "Iron Plate",
-                "CurrentProd": 5.4,
+                "CurrentProd": 20.0,
                 "MaxProd": 20.0,
-                "ProdPercent": "27.1"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 8.1,
+                "CurrentConsumed": 30.0,
                 "MaxConsumed": 30.0,
-                "ConsPercent": "27.1"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": false,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Constructor",
-        "location": {
-            "x": -12868.212891,
-            "y": 293431.625,
-            "z": -2401.939941,
-            "rotation": 160
-        },
-        "Recipe": "Iron Plate",
-        "production": [
-            {
-                "Name": "Iron Plate",
-                "CurrentProd": 5.4,
-                "MaxProd": 20.0,
-                "ProdPercent": "27.1"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Iron Ingot",
-                "CurrentConsumed": 8.1,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "27.1"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": false,
+        "IsProducing": true,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -1015,17 +569,17 @@
         "production": [
             {
                 "Name": "Steel Beam",
-                "CurrentProd": 11.3,
+                "CurrentProd": 15.0,
                 "MaxProd": 15.0,
-                "ProdPercent": "75.300003"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Steel Ingot",
-                "CurrentConsumed": 45.200001,
+                "CurrentConsumed": 60.0,
                 "MaxConsumed": 60.0,
-                "ConsPercent": "75.300003"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1046,22 +600,22 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 14.7,
+                "CurrentProd": 12.6,
                 "MaxProd": 15.0,
-                "ProdPercent": "98.0"
+                "ProdPercent": "84.300003"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 14.7,
+                "CurrentConsumed": 12.6,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "98.0"
+                "ConsPercent": "84.300003"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": true,
+        "IsProducing": false,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -1077,22 +631,22 @@
         "production": [
             {
                 "Name": "Iron Rod",
-                "CurrentProd": 10.0,
+                "CurrentProd": 9.3,
                 "MaxProd": 15.0,
-                "ProdPercent": "66.699997"
+                "ProdPercent": "62.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 10.0,
+                "CurrentConsumed": 9.3,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "66.699997"
+                "ConsPercent": "62.0"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": true,
+        "IsProducing": false,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -1108,17 +662,17 @@
         "production": [
             {
                 "Name": "Iron Plate",
-                "CurrentProd": 7.9,
+                "CurrentProd": 18.0,
                 "MaxProd": 20.0,
-                "ProdPercent": "39.599998"
+                "ProdPercent": "90.199997"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Ingot",
-                "CurrentConsumed": 11.9,
+                "CurrentConsumed": 27.1,
                 "MaxConsumed": 30.0,
-                "ConsPercent": "39.599998"
+                "ConsPercent": "90.199997"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1139,48 +693,17 @@
         "production": [
             {
                 "Name": "Screw",
-                "CurrentProd": 15.8,
+                "CurrentProd": 36.099998,
                 "MaxProd": 40.0,
-                "ProdPercent": "39.599998"
+                "ProdPercent": "90.199997"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 4.0,
+                "CurrentConsumed": 9.0,
                 "MaxConsumed": 10.0,
-                "ConsPercent": "39.599998"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Constructor",
-        "location": {
-            "x": -67256.085938,
-            "y": 264793.0625,
-            "z": -3855.012207,
-            "rotation": -60
-        },
-        "Recipe": "Steel Pipe",
-        "production": [
-            {
-                "Name": "Steel Pipe",
-                "CurrentProd": 3.1,
-                "MaxProd": 20.0,
-                "ProdPercent": "15.7"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Steel Ingot",
-                "CurrentConsumed": 4.7,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "15.7"
+                "ConsPercent": "90.199997"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1201,17 +724,17 @@
         "production": [
             {
                 "Name": "Wire",
-                "CurrentProd": 0.1,
+                "CurrentProd": 30.0,
                 "MaxProd": 30.0,
-                "ProdPercent": "0.4"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Copper Ingot",
-                "CurrentConsumed": 0.1,
+                "CurrentConsumed": 15.0,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "0.4"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1232,17 +755,17 @@
         "production": [
             {
                 "Name": "Wire",
-                "CurrentProd": 20.1,
+                "CurrentProd": 30.0,
                 "MaxProd": 30.0,
-                "ProdPercent": "67.099998"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Copper Ingot",
-                "CurrentConsumed": 10.1,
+                "CurrentConsumed": 15.0,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "67.099998"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1263,17 +786,17 @@
         "production": [
             {
                 "Name": "Cable",
-                "CurrentProd": 19.6,
+                "CurrentProd": 22.5,
                 "MaxProd": 30.0,
-                "ProdPercent": "65.5"
+                "ProdPercent": "74.900002"
             }
         ],
         "ingredients": [
             {
                 "Name": "Wire",
-                "CurrentConsumed": 39.299999,
+                "CurrentConsumed": 44.900002,
                 "MaxConsumed": 60.0,
-                "ConsPercent": "65.5"
+                "ConsPercent": "74.900002"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1294,48 +817,17 @@
         "production": [
             {
                 "Name": "Wire",
-                "CurrentProd": 19.799999,
+                "CurrentProd": 30.0,
                 "MaxProd": 30.0,
-                "ProdPercent": "65.900002"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Copper Ingot",
-                "CurrentConsumed": 9.9,
+                "CurrentConsumed": 15.0,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "65.900002"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": true,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Constructor",
-        "location": {
-            "x": -70210.578125,
-            "y": 263110.40625,
-            "z": -3839.414795,
-            "rotation": -60
-        },
-        "Recipe": "Copper Sheet",
-        "production": [
-            {
-                "Name": "Copper Sheet",
-                "CurrentProd": 5.1,
-                "MaxProd": 10.0,
-                "ProdPercent": "50.599998"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Copper Ingot",
-                "CurrentConsumed": 10.1,
-                "MaxConsumed": 20.0,
-                "ConsPercent": "50.599998"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1356,22 +848,437 @@
         "production": [
             {
                 "Name": "Cable",
-                "CurrentProd": 11.1,
+                "CurrentProd": 15.2,
                 "MaxProd": 30.0,
-                "ProdPercent": "36.900002"
+                "ProdPercent": "50.599998"
             }
         ],
         "ingredients": [
             {
                 "Name": "Wire",
-                "CurrentConsumed": 22.1,
+                "CurrentConsumed": 30.4,
                 "MaxConsumed": 60.0,
-                "ConsPercent": "36.900002"
+                "ConsPercent": "50.599998"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
         "IsProducing": false,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -49151.671875,
+            "y": 288833.21875,
+            "z": -2528.036865,
+            "rotation": 160
+        },
+        "Recipe": "Iron Ingot",
+        "production": [
+            {
+                "Name": "Iron Ingot",
+                "CurrentProd": 26.200001,
+                "MaxProd": 30.0,
+                "ProdPercent": "87.5"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 26.200001,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "87.5"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -38688.910156,
+            "y": 296490.3125,
+            "z": -2330.459717,
+            "rotation": 160
+        },
+        "Recipe": "Copper Ingot",
+        "production": [
+            {
+                "Name": "Copper Ingot",
+                "CurrentProd": 30.0,
+                "MaxProd": 30.0,
+                "ProdPercent": "100.0"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Copper Ore",
+                "CurrentConsumed": 30.0,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "100.0"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -49758.816406,
+            "y": 287165.09375,
+            "z": -2545.762939,
+            "rotation": 160
+        },
+        "Recipe": "Iron Ingot",
+        "production": [
+            {
+                "Name": "Iron Ingot",
+                "CurrentProd": 30.0,
+                "MaxProd": 30.0,
+                "ProdPercent": "100.0"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 30.0,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "100.0"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -49883.910156,
+            "y": 301434.84375,
+            "z": -2554.812256,
+            "rotation": -70
+        },
+        "Recipe": "Iron Ingot",
+        "production": [
+            {
+                "Name": "Iron Ingot",
+                "CurrentProd": 30.0,
+                "MaxProd": 30.0,
+                "ProdPercent": "100.0"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 30.0,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "100.0"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -46079.894531,
+            "y": 301302.03125,
+            "z": -2544.318359,
+            "rotation": 220
+        },
+        "Recipe": "Iron Ingot",
+        "production": [
+            {
+                "Name": "Iron Ingot",
+                "CurrentProd": 15.6,
+                "MaxProd": 30.0,
+                "ProdPercent": "52.200001"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 15.6,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "52.200001"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": false,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -10953.238281,
+            "y": 294224.46875,
+            "z": -2466.015137,
+            "rotation": 160
+        },
+        "Recipe": "Iron Ingot",
+        "production": [
+            {
+                "Name": "Iron Ingot",
+                "CurrentProd": 4.2,
+                "MaxProd": 30.0,
+                "ProdPercent": "14.1"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 4.2,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "14.1"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": false,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -11158.450195,
+            "y": 293660.65625,
+            "z": -2455.492188,
+            "rotation": 160
+        },
+        "Recipe": "Iron Ingot",
+        "production": [
+            {
+                "Name": "Iron Ingot",
+                "CurrentProd": 30.0,
+                "MaxProd": 30.0,
+                "ProdPercent": "100.0"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 30.0,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "100.0"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -67211.1875,
+            "y": 270546.46875,
+            "z": -3772.948486,
+            "rotation": -40
+        },
+        "Recipe": "Iron Ingot",
+        "production": [
+            {
+                "Name": "Iron Ingot",
+                "CurrentProd": 26.1,
+                "MaxProd": 30.0,
+                "ProdPercent": "87.099998"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 26.1,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "87.099998"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -66825.515625,
+            "y": 271006.09375,
+            "z": -3768.231934,
+            "rotation": -40
+        },
+        "Recipe": "Iron Ingot",
+        "production": [
+            {
+                "Name": "Iron Ingot",
+                "CurrentProd": 22.4,
+                "MaxProd": 30.0,
+                "ProdPercent": "74.5"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 22.4,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "74.5"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -69157.257812,
+            "y": 266086.0,
+            "z": -3871.503418,
+            "rotation": -60
+        },
+        "Recipe": "Copper Ingot",
+        "production": [
+            {
+                "Name": "Copper Ingot",
+                "CurrentProd": 22.4,
+                "MaxProd": 30.0,
+                "ProdPercent": "74.5"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Copper Ore",
+                "CurrentConsumed": 22.4,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "74.5"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Smelter",
+        "location": {
+            "x": -70106.617188,
+            "y": 265734.65625,
+            "z": -3864.61792,
+            "rotation": -70
+        },
+        "Recipe": "Copper Ingot",
+        "production": [
+            {
+                "Name": "Copper Ingot",
+                "CurrentProd": 23.4,
+                "MaxProd": 30.0,
+                "ProdPercent": "78.0"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Copper Ore",
+                "CurrentConsumed": 23.4,
+                "MaxConsumed": 30.0,
+                "ConsPercent": "78.0"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": false,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Foundry",
+        "location": {
+            "x": -63942.269531,
+            "y": 272852.09375,
+            "z": -3709.028564,
+            "rotation": 20
+        },
+        "Recipe": "Steel Ingot",
+        "production": [
+            {
+                "Name": "Steel Ingot",
+                "CurrentProd": 30.700001,
+                "MaxProd": 45.0,
+                "ProdPercent": "68.199997"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 30.700001,
+                "MaxConsumed": 45.0,
+                "ConsPercent": "68.199997"
+            },
+            {
+                "Name": "Coal",
+                "CurrentConsumed": 30.700001,
+                "MaxConsumed": 45.0,
+                "ConsPercent": "68.199997"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": false,
+        "IsPaused": false,
+        "CircuitID": 1
+    },
+    {
+        "building": "Foundry",
+        "location": {
+            "x": -67886.351562,
+            "y": 265484.71875,
+            "z": -3854.685791,
+            "rotation": -60
+        },
+        "Recipe": "Steel Ingot",
+        "production": [
+            {
+                "Name": "Steel Ingot",
+                "CurrentProd": 36.700001,
+                "MaxProd": 45.0,
+                "ProdPercent": "81.599998"
+            }
+        ],
+        "ingredients": [
+            {
+                "Name": "Iron Ore",
+                "CurrentConsumed": 36.700001,
+                "MaxConsumed": 45.0,
+                "ConsPercent": "81.599998"
+            },
+            {
+                "Name": "Coal",
+                "CurrentConsumed": 36.700001,
+                "MaxConsumed": 45.0,
+                "ConsPercent": "81.599998"
+            }
+        ],
+        "ManuSpeed": 1.0,
+        "IsConfigured": true,
+        "IsProducing": true,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -1387,23 +1294,23 @@
         "production": [
             {
                 "Name": "Reinforced Iron Plate",
-                "CurrentProd": 2.4,
+                "CurrentProd": 3.1,
                 "MaxProd": 5.0,
-                "ProdPercent": "48.599998"
+                "ProdPercent": "62.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Plate",
-                "CurrentConsumed": 14.6,
+                "CurrentConsumed": 18.6,
                 "MaxConsumed": 30.0,
-                "ConsPercent": "48.599998"
+                "ConsPercent": "62.0"
             },
             {
                 "Name": "Screw",
-                "CurrentConsumed": 29.200001,
+                "CurrentConsumed": 37.200001,
                 "MaxConsumed": 60.0,
-                "ConsPercent": "48.599998"
+                "ConsPercent": "62.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1424,23 +1331,23 @@
         "production": [
             {
                 "Name": "Rotor",
-                "CurrentProd": 2.4,
+                "CurrentProd": 3.0,
                 "MaxProd": 4.0,
-                "ProdPercent": "60.400002"
+                "ProdPercent": "74.5"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 12.1,
+                "CurrentConsumed": 14.9,
                 "MaxConsumed": 20.0,
-                "ConsPercent": "60.400002"
+                "ConsPercent": "74.5"
             },
             {
                 "Name": "Screw",
-                "CurrentConsumed": 60.400002,
+                "CurrentConsumed": 74.5,
                 "MaxConsumed": 100.0,
-                "ConsPercent": "60.400002"
+                "ConsPercent": "74.5"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1461,23 +1368,23 @@
         "production": [
             {
                 "Name": "Smart Plating",
-                "CurrentProd": 1.2,
+                "CurrentProd": 1.5,
                 "MaxProd": 2.0,
-                "ProdPercent": "60.400002"
+                "ProdPercent": "74.5"
             }
         ],
         "ingredients": [
             {
                 "Name": "Reinforced Iron Plate",
-                "CurrentConsumed": 1.2,
+                "CurrentConsumed": 1.5,
                 "MaxConsumed": 2.0,
-                "ConsPercent": "60.400002"
+                "ConsPercent": "74.5"
             },
             {
                 "Name": "Rotor",
-                "CurrentConsumed": 1.2,
+                "CurrentConsumed": 1.5,
                 "MaxConsumed": 2.0,
-                "ConsPercent": "60.400002"
+                "ConsPercent": "74.5"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1498,23 +1405,23 @@
         "production": [
             {
                 "Name": "Smart Plating",
-                "CurrentProd": 1.2,
+                "CurrentProd": 1.5,
                 "MaxProd": 2.0,
-                "ProdPercent": "60.400002"
+                "ProdPercent": "74.5"
             }
         ],
         "ingredients": [
             {
                 "Name": "Reinforced Iron Plate",
-                "CurrentConsumed": 1.2,
+                "CurrentConsumed": 1.5,
                 "MaxConsumed": 2.0,
-                "ConsPercent": "60.400002"
+                "ConsPercent": "74.5"
             },
             {
                 "Name": "Rotor",
-                "CurrentConsumed": 1.2,
+                "CurrentConsumed": 1.5,
                 "MaxConsumed": 2.0,
-                "ConsPercent": "60.400002"
+                "ConsPercent": "74.5"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1537,21 +1444,21 @@
                 "Name": "Rotor",
                 "CurrentProd": 1.2,
                 "MaxProd": 4.0,
-                "ProdPercent": "31.0"
+                "ProdPercent": "30.6"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 6.2,
+                "CurrentConsumed": 6.1,
                 "MaxConsumed": 20.0,
-                "ConsPercent": "31.0"
+                "ConsPercent": "30.6"
             },
             {
                 "Name": "Screw",
-                "CurrentConsumed": 31.0,
+                "CurrentConsumed": 30.6,
                 "MaxConsumed": 100.0,
-                "ConsPercent": "31.0"
+                "ConsPercent": "30.6"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1572,23 +1479,23 @@
         "production": [
             {
                 "Name": "Reinforced Iron Plate",
-                "CurrentProd": 1.7,
+                "CurrentProd": 5.0,
                 "MaxProd": 5.0,
-                "ProdPercent": "34.900002"
+                "ProdPercent": "100.0"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Plate",
-                "CurrentConsumed": 10.5,
+                "CurrentConsumed": 30.0,
                 "MaxConsumed": 30.0,
-                "ConsPercent": "34.900002"
+                "ConsPercent": "100.0"
             },
             {
                 "Name": "Screw",
-                "CurrentConsumed": 20.9,
+                "CurrentConsumed": 60.0,
                 "MaxConsumed": 60.0,
-                "ConsPercent": "34.900002"
+                "ConsPercent": "100.0"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1609,28 +1516,28 @@
         "production": [
             {
                 "Name": "Modular Frame",
-                "CurrentProd": 1.1,
+                "CurrentProd": 2.0,
                 "MaxProd": 2.0,
-                "ProdPercent": "54.5"
+                "ProdPercent": "99.599998"
             }
         ],
         "ingredients": [
             {
                 "Name": "Reinforced Iron Plate",
-                "CurrentConsumed": 1.6,
+                "CurrentConsumed": 3.0,
                 "MaxConsumed": 3.0,
-                "ConsPercent": "54.5"
+                "ConsPercent": "99.599998"
             },
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 6.5,
+                "CurrentConsumed": 12.0,
                 "MaxConsumed": 12.0,
-                "ConsPercent": "54.5"
+                "ConsPercent": "99.599998"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": false,
+        "IsProducing": true,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -1646,23 +1553,23 @@
         "production": [
             {
                 "Name": "Versatile Framework",
-                "CurrentProd": 1.9,
+                "CurrentProd": 2.5,
                 "MaxProd": 5.0,
-                "ProdPercent": "38.799999"
+                "ProdPercent": "50.200001"
             }
         ],
         "ingredients": [
             {
                 "Name": "Modular Frame",
-                "CurrentConsumed": 1.0,
+                "CurrentConsumed": 1.3,
                 "MaxConsumed": 2.5,
-                "ConsPercent": "38.799999"
+                "ConsPercent": "50.200001"
             },
             {
                 "Name": "Steel Beam",
-                "CurrentConsumed": 11.6,
+                "CurrentConsumed": 15.1,
                 "MaxConsumed": 30.0,
-                "ConsPercent": "38.799999"
+                "ConsPercent": "50.200001"
             }
         ],
         "ManuSpeed": 1.0,
@@ -1683,28 +1590,28 @@
         "production": [
             {
                 "Name": "Modular Frame",
-                "CurrentProd": 1.0,
+                "CurrentProd": 2.0,
                 "MaxProd": 2.0,
-                "ProdPercent": "48.599998"
+                "ProdPercent": "99.599998"
             }
         ],
         "ingredients": [
             {
                 "Name": "Reinforced Iron Plate",
-                "CurrentConsumed": 1.5,
+                "CurrentConsumed": 3.0,
                 "MaxConsumed": 3.0,
-                "ConsPercent": "48.599998"
+                "ConsPercent": "99.599998"
             },
             {
                 "Name": "Iron Rod",
-                "CurrentConsumed": 5.8,
+                "CurrentConsumed": 12.0,
                 "MaxConsumed": 12.0,
-                "ConsPercent": "48.599998"
+                "ConsPercent": "99.599998"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": false,
+        "IsProducing": true,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -1720,28 +1627,28 @@
         "production": [
             {
                 "Name": "Reinforced Iron Plate",
-                "CurrentProd": 2.0,
+                "CurrentProd": 3.1,
                 "MaxProd": 5.0,
-                "ProdPercent": "39.599998"
+                "ProdPercent": "62.700001"
             }
         ],
         "ingredients": [
             {
                 "Name": "Iron Plate",
-                "CurrentConsumed": 11.9,
+                "CurrentConsumed": 18.799999,
                 "MaxConsumed": 30.0,
-                "ConsPercent": "39.599998"
+                "ConsPercent": "62.700001"
             },
             {
                 "Name": "Screw",
-                "CurrentConsumed": 23.799999,
+                "CurrentConsumed": 37.599998,
                 "MaxConsumed": 60.0,
-                "ConsPercent": "39.599998"
+                "ConsPercent": "62.700001"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": true,
+        "IsProducing": false,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -1757,28 +1664,28 @@
         "production": [
             {
                 "Name": "Stator",
-                "CurrentProd": 1.2,
+                "CurrentProd": 1.9,
                 "MaxProd": 5.0,
-                "ProdPercent": "24.700001"
+                "ProdPercent": "37.299999"
             }
         ],
         "ingredients": [
             {
                 "Name": "Steel Pipe",
-                "CurrentConsumed": 3.7,
+                "CurrentConsumed": 5.6,
                 "MaxConsumed": 15.0,
-                "ConsPercent": "24.700001"
+                "ConsPercent": "37.299999"
             },
             {
                 "Name": "Wire",
-                "CurrentConsumed": 9.9,
+                "CurrentConsumed": 14.9,
                 "MaxConsumed": 40.0,
-                "ConsPercent": "24.700001"
+                "ConsPercent": "37.299999"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": false,
+        "IsProducing": true,
         "IsPaused": false,
         "CircuitID": 1
     },
@@ -1794,59 +1701,28 @@
         "production": [
             {
                 "Name": "Automated Wiring",
-                "CurrentProd": 1.2,
+                "CurrentProd": 1.9,
                 "MaxProd": 2.5,
-                "ProdPercent": "47.5"
+                "ProdPercent": "74.900002"
             }
         ],
         "ingredients": [
             {
                 "Name": "Stator",
-                "CurrentConsumed": 1.2,
+                "CurrentConsumed": 1.9,
                 "MaxConsumed": 2.5,
-                "ConsPercent": "47.5"
+                "ConsPercent": "74.900002"
             },
             {
                 "Name": "Cable",
-                "CurrentConsumed": 23.700001,
+                "CurrentConsumed": 37.5,
                 "MaxConsumed": 50.0,
-                "ConsPercent": "47.5"
+                "ConsPercent": "74.900002"
             }
         ],
         "ManuSpeed": 1.0,
         "IsConfigured": true,
-        "IsProducing": false,
-        "IsPaused": false,
-        "CircuitID": 1
-    },
-    {
-        "building": "Smelter",
-        "location": {
-            "x": -70106.617188,
-            "y": 265734.65625,
-            "z": -3864.61792,
-            "rotation": -70
-        },
-        "Recipe": "Copper Ingot",
-        "production": [
-            {
-                "Name": "Copper Ingot",
-                "CurrentProd": 16.4,
-                "MaxProd": 30.0,
-                "ProdPercent": "54.5"
-            }
-        ],
-        "ingredients": [
-            {
-                "Name": "Copper Ore",
-                "CurrentConsumed": 16.4,
-                "MaxConsumed": 30.0,
-                "ConsPercent": "54.5"
-            }
-        ],
-        "ManuSpeed": 1.0,
-        "IsConfigured": true,
-        "IsProducing": false,
+        "IsProducing": true,
         "IsPaused": false,
         "CircuitID": 1
     }

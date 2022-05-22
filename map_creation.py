@@ -5,6 +5,9 @@ import cv2
 import numpy as np
 import networkx as nx
 from matplotlib import pyplot as plt
+import pyimgur
+
+CLIENT_ID = "2925471fc486adc"
 
 
 def get_belt_coordinates():
@@ -29,7 +32,7 @@ def get_machine_coordinates():
     machine_data = []
     for machine in data:
         temp_data = [machine['location']['x'],
-                     machine['location']['y'], machine['building']]
+                     machine['location']['y'], machine['building'], machine['production'][0]]
         machine_data.append(temp_data)
     return machine_data
 
@@ -98,17 +101,23 @@ def draw_map(size_x=1024, size_y=1024, thickness=0):
     shift_x_mag = abs(min_x)
     shift_y_mag = abs(min_y)
 
+    belt_max = get_max_x_y(belt_coordinate)
+    belt_max_x, belt_max_y = belt_max[1]
+
+    belt_diff_x = abs(abs(belt_max_x) - abs(max_x))
+    belt_diff_y = abs(abs(belt_max_y) - abs(max_y))
+
     for machine in machine_coordinate:
         normalise_x(x_difference, shift_x_mag, machine)
         normalise_y(y_difference, shift_y_mag, machine)
 
     for belt in belt_coordinate:
-        normalise_x(x_difference, shift_x_mag, belt[0])
+        normalise_x(x_difference, shift_x_mag + belt_diff_x, belt[0])
         belt[0][0] += int(size_x/25)
         normalise_y(y_difference, shift_y_mag, belt[0])
         belt[0][1] += int(size_y/25)
 
-        normalise_x(x_difference, shift_x_mag, belt[1])
+        normalise_x(x_difference, shift_x_mag + belt_diff_x, belt[1])
         belt[1][0] += int(size_x/25)
         normalise_y(y_difference, shift_y_mag, belt[1])
         belt[1][1] += int(size_y/25)
@@ -131,8 +140,18 @@ def draw_map(size_x=1024, size_y=1024, thickness=0):
 
     data = np.zeros((max_x + int(size_x/10) + thickness, max_y +
                     int(size_y/10) + thickness, 3), dtype=np.uint8)
+
+    """ for i in range(size_x + int(size_x/10)):
+        for j in range(size_y+ int(size_y/9)):
+            data[i, j] = (255,255,255) """
+
     for machine in machine_coordinate:
+        # print(machine)
         for coordinate in surrounding_coordinates(machine, thickness=thickness):
+            """ if machine[2] == 'Smelter' and machine[3]['Name'] == 'Iron Ingot' and machine[3]['CurrentProd'] < 25:
+                 data[coordinate[0], coordinate[1]] = (255, 0, 0)
+            else:
+                 data[coordinate[0], coordinate[1]] = colors[machine[2]] """
             data[coordinate[0], coordinate[1]] = colors[machine[2]]
 
     for miner in miners:
@@ -144,13 +163,26 @@ def draw_map(size_x=1024, size_y=1024, thickness=0):
     # print(belt_coordinate)
 
     for belt in belt_coordinate:
-        data[belt[0][0], belt[0][1]] = [255, 255, 255]
-        data[belt[1][0], belt[1][1]] = [255, 255, 255]
+        """ data[belt[0][0], belt[0][1]] = [255, 255, 255]
+        data[belt[1][0], belt[1][1]] = [255, 255, 255] """
         cv2.line(data, (belt[0][1], belt[0][0]),
                  (belt[1][1], belt[1][0]), (0, 255, 255))
 
+    fig, ax = plt.subplots()
+    ax.set_facecolor('#ffffff')
+    ax.axis('off')
+    fig.set_facecolor('#ffffff')
     plt.imshow(data)
-    plt.show()
+    plt.savefig(os.path.join('assets', 'map.png'), bbox_inches='tight')
+    return 'map.png'
+    # plt.show()
+
+
+def save_map(x, y, delta):
+    PATH = draw_map(x, y, delta)
+    im = pyimgur.Imgur(CLIENT_ID)
+    uploaded_image = im.upload_image(PATH, title="Uploaded with PyImgur")
+    print(uploaded_image.link)
 
 
 def normalise_y(y_difference, shift_y_mag, item):
@@ -186,8 +218,10 @@ def get_dependencies():
             counter[machine["building"]] += 1
 
         # print(counter)
+        """ machinetemp = {"building": machine["building"] +
+                       name + str(counter[machine["building"]]), "output": []} """
         machinetemp = {"building": machine["building"] +
-                       name + str(counter[machine["building"]]), "output": []}
+                       name, "output": []}
 
         for product in machine["production"]:
             machinetemp["output"].append(product["Name"])
@@ -209,14 +243,22 @@ def get_dependencies():
                     G.add_edge(machine["building"],
                                machine2["building"], length=100)
 
-    nx.draw_networkx(G)
+    #fig = plt.figure()
+    nx.draw_networkx(G, arrows=True, font_size=8)
+    # fig.set_facecolor('#000000')
     # Draw the graph
-    plt.show()
+    plt.savefig(os.path.join('assets', 'dependencies.png'),
+                bbox_inches='tight')
+    # plt.show()
+
+    # print(counter)
+    # print(dependencies)
 
     return(dependencies)
 
 
-# get_dependencies()
+#get_dependencies()
 
 
-draw_map(500, 500, 2)
+#draw_map(1000, 1000, 3)
+#save_map(500, 500, 2)

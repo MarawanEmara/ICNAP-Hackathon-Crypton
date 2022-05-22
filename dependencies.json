@@ -1,6 +1,6 @@
 [
     {
-        "building": "FoundrySI0",
+        "building": "FoundrySI",
         "output": [
             "Steel Ingot"
         ],
@@ -10,7 +10,7 @@
         ]
     },
     {
-        "building": "FoundrySI1",
+        "building": "FoundrySI",
         "output": [
             "Steel Ingot"
         ],
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "building": "SmelterII0",
+        "building": "SmelterII",
         "output": [
             "Iron Ingot"
         ],
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "building": "SmelterCI1",
+        "building": "SmelterCI",
         "output": [
             "Copper Ingot"
         ],
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "building": "SmelterII2",
+        "building": "SmelterII",
         "output": [
             "Iron Ingot"
         ],
@@ -47,7 +47,7 @@
         ]
     },
     {
-        "building": "SmelterII3",
+        "building": "SmelterII",
         "output": [
             "Iron Ingot"
         ],
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "building": "SmelterII4",
+        "building": "SmelterII",
         "output": [
             "Iron Ingot"
         ],
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "building": "SmelterII5",
+        "building": "SmelterII",
         "output": [
             "Iron Ingot"
         ],
@@ -74,7 +74,7 @@
         ]
     },
     {
-        "building": "SmelterII6",
+        "building": "SmelterII",
         "output": [
             "Iron Ingot"
         ],
@@ -83,7 +83,7 @@
         ]
     },
     {
-        "building": "SmelterII7",
+        "building": "SmelterII",
         "output": [
             "Iron Ingot"
         ],
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "building": "SmelterII8",
+        "building": "SmelterII",
         "output": [
             "Iron Ingot"
         ],
@@ -101,25 +101,7 @@
         ]
     },
     {
-        "building": "SmelterII9",
-        "output": [
-            "Iron Ingot"
-        ],
-        "input": [
-            "Iron Ore"
-        ]
-    },
-    {
-        "building": "SmelterII10",
-        "output": [
-            "Iron Ingot"
-        ],
-        "input": [
-            "Iron Ore"
-        ]
-    },
-    {
-        "building": "SmelterCI11",
+        "building": "SmelterCI",
         "output": [
             "Copper Ingot"
         ],
@@ -128,7 +110,16 @@
         ]
     },
     {
-        "building": "ConstructorIR0",
+        "building": "SmelterCI",
+        "output": [
+            "Copper Ingot"
+        ],
+        "input": [
+            "Copper Ore"
+        ]
+    },
+    {
+        "building": "ConstructorIR",
         "output": [
             "Iron Rod"
         ],
@@ -137,7 +128,7 @@
         ]
     },
     {
-        "building": "ConstructorS1",
+        "building": "ConstructorS",
         "output": [
             "Screw"
         ],
@@ -146,7 +137,7 @@
         ]
     },
     {
-        "building": "ConstructorIP2",
+        "building": "ConstructorIP",
         "output": [
             "Iron Plate"
         ],
@@ -155,7 +146,7 @@
         ]
     },
     {
-        "building": "ConstructorW3",
+        "building": "ConstructorW",
         "output": [
             "Wire"
         ],
@@ -164,7 +155,7 @@
         ]
     },
     {
-        "building": "ConstructorC4",
+        "building": "ConstructorC",
         "output": [
             "Cable"
         ],
@@ -173,16 +164,7 @@
         ]
     },
     {
-        "building": "ConstructorC5",
-        "output": [
-            "Concrete"
-        ],
-        "input": [
-            "Limestone"
-        ]
-    },
-    {
-        "building": "ConstructorIR6",
+        "building": "ConstructorIR",
         "output": [
             "Iron Rod"
         ],
@@ -191,7 +173,7 @@
         ]
     },
     {
-        "building": "ConstructorIR7",
+        "building": "ConstructorIR",
         "output": [
             "Iron Rod"
         ],
@@ -200,7 +182,7 @@
         ]
     },
     {
-        "building": "ConstructorW8",
+        "building": "ConstructorW",
         "output": [
             "Wire"
         ],
@@ -209,7 +191,7 @@
         ]
     },
     {
-        "building": "ConstructorIR9",
+        "building": "ConstructorIR",
         "output": [
             "Iron Rod"
         ],
@@ -218,7 +200,7 @@
         ]
     },
     {
-        "building": "ConstructorS10",
+        "building": "ConstructorS",
         "output": [
             "Screw"
         ],
@@ -227,7 +209,7 @@
         ]
     },
     {
-        "building": "ConstructorS11",
+        "building": "ConstructorS",
         "output": [
             "Screw"
         ],
@@ -236,7 +218,7 @@
         ]
     },
     {
-        "building": "ConstructorIR12",
+        "building": "ConstructorIR",
         "output": [
             "Iron Rod"
         ],
@@ -245,7 +227,7 @@
         ]
     },
     {
-        "building": "ConstructorS13",
+        "building": "ConstructorS",
         "output": [
             "Screw"
         ],
@@ -254,7 +236,7 @@
         ]
     },
     {
-        "building": "ConstructorS14",
+        "building": "ConstructorS",
         "output": [
             "Screw"
         ],
@@ -263,97 +245,7 @@
         ]
     },
     {
-        "building": "ConstructorB15",
-        "output": [
-            "Biomass"
-        ],
-        "input": [
-            "Leaves"
-        ]
-    },
-    {
-        "building": "ConstructorIR16",
-        "output": [
-            "Iron Rod"
-        ],
-        "input": [
-            "Iron Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorIR17",
-        "output": [
-            "Iron Rod"
-        ],
-        "input": [
-            "Iron Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorIP18",
-        "output": [
-            "Iron Plate"
-        ],
-        "input": [
-            "Iron Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorIP19",
-        "output": [
-            "Iron Plate"
-        ],
-        "input": [
-            "Iron Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorSB20",
-        "output": [
-            "Steel Beam"
-        ],
-        "input": [
-            "Steel Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorIR21",
-        "output": [
-            "Iron Rod"
-        ],
-        "input": [
-            "Iron Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorIR22",
-        "output": [
-            "Iron Rod"
-        ],
-        "input": [
-            "Iron Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorIP23",
-        "output": [
-            "Iron Plate"
-        ],
-        "input": [
-            "Iron Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorS24",
-        "output": [
-            "Screw"
-        ],
-        "input": [
-            "Iron Rod"
-        ]
-    },
-    {
-        "building": "ConstructorSP25",
+        "building": "ConstructorSP",
         "output": [
             "Steel Pipe"
         ],
@@ -362,7 +254,79 @@
         ]
     },
     {
-        "building": "ConstructorW26",
+        "building": "ConstructorIR",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIR",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIP",
+        "output": [
+            "Iron Plate"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorSB",
+        "output": [
+            "Steel Beam"
+        ],
+        "input": [
+            "Steel Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIR",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIR",
+        "output": [
+            "Iron Rod"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorIP",
+        "output": [
+            "Iron Plate"
+        ],
+        "input": [
+            "Iron Ingot"
+        ]
+    },
+    {
+        "building": "ConstructorS",
+        "output": [
+            "Screw"
+        ],
+        "input": [
+            "Iron Rod"
+        ]
+    },
+    {
+        "building": "ConstructorW",
         "output": [
             "Wire"
         ],
@@ -371,7 +335,7 @@
         ]
     },
     {
-        "building": "ConstructorW27",
+        "building": "ConstructorW",
         "output": [
             "Wire"
         ],
@@ -380,7 +344,7 @@
         ]
     },
     {
-        "building": "ConstructorC28",
+        "building": "ConstructorC",
         "output": [
             "Cable"
         ],
@@ -389,7 +353,7 @@
         ]
     },
     {
-        "building": "ConstructorW29",
+        "building": "ConstructorW",
         "output": [
             "Wire"
         ],
@@ -398,16 +362,7 @@
         ]
     },
     {
-        "building": "ConstructorCS30",
-        "output": [
-            "Copper Sheet"
-        ],
-        "input": [
-            "Copper Ingot"
-        ]
-    },
-    {
-        "building": "ConstructorC31",
+        "building": "ConstructorC",
         "output": [
             "Cable"
         ],
@@ -416,7 +371,7 @@
         ]
     },
     {
-        "building": "AssemblerRIP0",
+        "building": "AssemblerRIP",
         "output": [
             "Reinforced Iron Plate"
         ],
@@ -426,7 +381,7 @@
         ]
     },
     {
-        "building": "AssemblerR1",
+        "building": "AssemblerR",
         "output": [
             "Rotor"
         ],
@@ -436,7 +391,7 @@
         ]
     },
     {
-        "building": "AssemblerSP2",
+        "building": "AssemblerSP",
         "output": [
             "Smart Plating"
         ],
@@ -446,7 +401,7 @@
         ]
     },
     {
-        "building": "AssemblerSP3",
+        "building": "AssemblerSP",
         "output": [
             "Smart Plating"
         ],
@@ -456,7 +411,7 @@
         ]
     },
     {
-        "building": "AssemblerR4",
+        "building": "AssemblerR",
         "output": [
             "Rotor"
         ],
@@ -466,7 +421,7 @@
         ]
     },
     {
-        "building": "AssemblerRIP5",
+        "building": "AssemblerRIP",
         "output": [
             "Reinforced Iron Plate"
         ],
@@ -476,7 +431,7 @@
         ]
     },
     {
-        "building": "AssemblerMF6",
+        "building": "AssemblerMF",
         "output": [
             "Modular Frame"
         ],
@@ -486,7 +441,7 @@
         ]
     },
     {
-        "building": "AssemblerVF7",
+        "building": "AssemblerVF",
         "output": [
             "Versatile Framework"
         ],
@@ -496,7 +451,7 @@
         ]
     },
     {
-        "building": "AssemblerMF8",
+        "building": "AssemblerMF",
         "output": [
             "Modular Frame"
         ],
@@ -506,7 +461,7 @@
         ]
     },
     {
-        "building": "AssemblerRIP9",
+        "building": "AssemblerRIP",
         "output": [
             "Reinforced Iron Plate"
         ],
@@ -516,7 +471,7 @@
         ]
     },
     {
-        "building": "AssemblerS10",
+        "building": "AssemblerS",
         "output": [
             "Stator"
         ],
@@ -526,7 +481,7 @@
         ]
     },
     {
-        "building": "AssemblerAW11",
+        "building": "AssemblerAW",
         "output": [
             "Automated Wiring"
         ],
